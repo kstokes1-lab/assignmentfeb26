@@ -10,8 +10,8 @@ color: pink;
 color: black;
 }
 
-p {
-  color: gray;
+body p {
+color: gray;
 }
 
 .highlight {
