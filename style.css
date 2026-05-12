@@ -9,6 +9,11 @@ color: pink;
 #special {
 color: black;
 }
+
 p {
   color: gray;
+}
+
+.highlight {
+  color: blue;
 }
